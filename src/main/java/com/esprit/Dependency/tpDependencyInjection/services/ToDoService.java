@@ -20,7 +20,7 @@ public class ToDoService {
 	public List<String> getCoursesList() {
 		return toDoPrimary.getCoursesList();
 	}
-	public List<String>getCoursesListByName(){
+		public List<String> getCoursesListByName(){
 		return toDoByName.getCoursesList();
 	}
 
